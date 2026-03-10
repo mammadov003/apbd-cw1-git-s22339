@@ -23,5 +23,8 @@ class Program
         
         int sum = StatisticsHelper.CalculateSum(numbers);
         Console.WriteLine("Sum: " + sum);
+        
+        double average = StatisticsHelper.CalculateAverage(numbers);
+        Console.WriteLine("Average: " + average);
     }
 }

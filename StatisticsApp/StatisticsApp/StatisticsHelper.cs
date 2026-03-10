@@ -13,4 +13,10 @@ public class StatisticsHelper
 
         return sum;
     }
+
+    public static double CalculateAverage(int[] values)
+    {
+        int sum = CalculateSum(values);
+        return (double)sum / values.Length;
+    }
 }
