@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Application started successfully");
+        Console.WriteLine("Statistics program started successfully!");
 
         int[] numbers = { 10, 20, 30, 40, 50 };
 
