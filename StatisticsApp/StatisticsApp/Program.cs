@@ -9,6 +9,12 @@ class Program
 
         int[] numbers = { 10, 20, 30, 40, 50 };
 
+        if (numbers.Length == 0)
+        {
+            Console.WriteLine("Error: no numbers were provided.");
+            return;
+        }
+
         Console.WriteLine("Numbers:");
         foreach (int number in numbers)
         {
