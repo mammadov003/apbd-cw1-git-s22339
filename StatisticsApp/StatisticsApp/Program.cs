@@ -31,6 +31,6 @@ class Program
         Console.WriteLine("Max: " + max);
         
         int min = StatisticsHelper.CalculateMin(numbers);
-        Console.WriteLine("Min: " + min);
+        Console.WriteLine("Minimum value: " + min);
     }
 }
