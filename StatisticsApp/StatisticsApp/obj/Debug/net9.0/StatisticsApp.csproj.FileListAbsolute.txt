@@ -1,0 +1,14 @@
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.AssemblyInfoInputs.cache
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.AssemblyInfo.cs
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.csproj.CoreCompileInputs.cache
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\bin\Debug\net9.0\StatisticsApp.exe
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\bin\Debug\net9.0\StatisticsApp.deps.json
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\bin\Debug\net9.0\StatisticsApp.runtimeconfig.json
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\bin\Debug\net9.0\StatisticsApp.dll
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\bin\Debug\net9.0\StatisticsApp.pdb
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.dll
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\refint\StatisticsApp.dll
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.pdb
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\StatisticsApp.genruntimeconfig.cache
+C:\Users\s22339\Desktop\apbd-cw1-git-s22339\StatisticsApp\StatisticsApp\obj\Debug\net9.0\ref\StatisticsApp.dll
