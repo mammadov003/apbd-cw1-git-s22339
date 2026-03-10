@@ -1,4 +1,5 @@
 ﻿using System;
+using StatisticsApp;
 
 class Program
 {
@@ -13,5 +14,8 @@ class Program
         {
             Console.WriteLine(number);
         }
+        
+        int sum = StatisticsHelper.CalculateSum(numbers);
+        Console.WriteLine("Sum: " + sum);
     }
 }
