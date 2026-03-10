@@ -26,5 +26,8 @@ class Program
         
         double average = StatisticsHelper.CalculateAverage(numbers);
         Console.WriteLine("Average: " + average);
+        
+        int max = StatisticsHelper.CalculateMax(numbers);
+        Console.WriteLine("Max: " + max);
     }
 }
